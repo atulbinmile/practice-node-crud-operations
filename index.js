@@ -1,4 +1,4 @@
-"use strict";
+"use strict"
 
 const UserController = require("./controllers/userController");
 const express = require("express");
